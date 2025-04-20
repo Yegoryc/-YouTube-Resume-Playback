@@ -19,7 +19,7 @@ Tampermonkey (Chrome/Firefox/Edge)
 Violentmonkey (альтернатива)
 
 Перейдите на страницу скрипта:
-Скачать на GreasyFork
+Скачать на GreasyFork https://greasyfork.org/ru/scripts/533450-youtube-resume-playback
 
 Нажмите зелёную кнопку "Установить"
 
